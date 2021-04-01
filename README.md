@@ -15,18 +15,18 @@ and re-do or delete our previously completed tasks.
 
 ## Launch
 1. DB
-..* Install MySQL
-..* Run script_1.sql from db
-..* Run script_2.sql from db
+* Install MySQL
+* Run script_1.sql from db
+* Run script_2.sql from db
 
 2. Server
-..* Install NodeJs
-..* Install node dependencies
-..* Set your db login on server/bin/mysql.js
-..* Run -> node app.js on /server
+* Install NodeJs
+* Install node dependencies
+* Set your db login on server/bin/mysql.js
+* Run -> node app.js on /server
 
 3. Client
-..* Install ReactJs
-..* Install node dependencies
-..* Run -> npm start
+* Install ReactJs
+* Install node dependencies
+* Run -> npm start
 
