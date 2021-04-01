@@ -8,10 +8,10 @@ and the tasks section, from where we can create, edit, complete or delete our pe
 and re-do or delete our previously completed tasks.
 
 ## Technologies
-..* ReactJs
-..* NodeJs
-..* ExpressJs
-..* MySQL
+* ReactJs
+* NodeJs
+* ExpressJs
+* MySQL
 
 ## Launch
 1. DB
